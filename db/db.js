@@ -193,12 +193,12 @@ export default {
 				"Asgardeo",
 				"Choreo",
 				"Ballerina",
+				"FHIR",
 			],
 			icon: "heartbeat",
 		},
-		
 		{
-			title: "CSE, University of Moratuwa",
+			title: "Computer Science & Engineering, UOM",
 			duration: "February 2022 - April 2022",
 			subtitle: "Visiting Instructor",
 			details: [
@@ -226,6 +226,8 @@ export default {
 				"Github",
 				"Jmeter",
 				"Dbeaver",
+				"Relational Databases",
+				"NoSQL Databases",
 			],
 			icon: "group",
 		},
@@ -237,7 +239,7 @@ export default {
 			subtitle: "University of Moratuwa, Sri Lanka",
 			details: [
 				"First Class Honours.",
-				"CGPA 3.7449/4.2.",
+				"CGPA 3.745 / 4.2.",
 				"Dean List awards in Semester 7 & 8.",
 			],
 			tags: [
@@ -245,10 +247,16 @@ export default {
 				"Operating Systems",
 				"Database Management System",
 				"Object Oriented Programming",
+				"Object Oriented Software Design",
+				"Software Engineering",
+				"Quality Engineering",
+				"Software Architecture",
+				"Software Process and Management",
 				"Data Science",
 				"Cloud Computing",
 				"Machine Learning",
 				"BioInformatics",
+				"Advanced Algorithms",
 			],
 			icon: "graduation-cap",
 		},
@@ -271,6 +279,7 @@ export default {
 			details: [
 				"Got all High Distinction Level Passes in GCE Ordinary Level Examination.",
 				"Best Physical Science Student Awards multiple times.",
+				"Got Pass marks of 168 out of 200 in Grade Five Schoolarship Examination.",
 			],
 			tags: ["Physics", "Chemistry", "Combined Mathematics"],
 			icon: "book",
