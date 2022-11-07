@@ -240,7 +240,7 @@ export default {
 			details: [
 				"First Class Honours.",
 				"CGPA 3.745 / 4.2.",
-				"Dean List awards in Semester 7 & 8.",
+				"Dean List awards in semester 7 & 8.",
 			],
 			tags: [
 				"Data Structures & Algorithms",
@@ -265,8 +265,8 @@ export default {
 			duration: "Two Years",
 			subtitle: "Vavuniya Tamil Madya Maha Vidyalayam, Vavuniya",
 			details: [
-				"Best Physical Science Student Awards in 2015 & 2016.",
-				"Got all High Distinction Level Passes with General Knowledge 78 out of 100.",
+				"Best physical science student awards in 2015 & 2016.",
+				"Got all high distinction level passes with general knowledge 78 out of 100.",
 				"District Rank: 3, Island Rank: 327, Z-Score: 2.1485.",
 			],
 			tags: ["Physics", "Chemistry", "Combined Mathematics"],
@@ -277,9 +277,9 @@ export default {
 			duration: "Two Years",
 			subtitle: "Nelukkulam Kalaimahal Maha Vidyalayam, Vavuniya",
 			details: [
-				"Got all High Distinction Level Passes in GCE Ordinary Level Examination.",
-				"Best Student Awards multiple times in Secondary Education.",
-				"Got Pass marks of 168 out of 200 in Grade Five Schoolarship Examination.",
+				"Got all High Distinction level passes in GCE ordinary level examination.",
+				"Best student awards multiple times in secondary education.",
+				"Got pass marks of 168 out of 200 in grade five schoolarship examination.",
 			],
 			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information Technology","Music","Commerce"],
 			icon: "book",
