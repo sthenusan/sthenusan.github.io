@@ -182,7 +182,10 @@ export default {
 			duration: "May 2022 - Present",
 			subtitle: "Software Engineer",
 			details: [
-				"Working as Software Engineer in Open Healthcare Team, Research and Development",
+				"Implemented Healthcare Ballerina Packages.",
+				"DICOM feature support for WSO2 OH Solution.",
+				"Asgardeo & APIM Integration Research.",
+				"Research on Asgardeo & Choreo Access tokens.",
 			],
 			tags: [
 				"Java",
@@ -199,9 +202,9 @@ export default {
 			duration: "February 2022 - April 2022",
 			subtitle: "Visiting Instructor",
 			details: [
-				"Explain database concepts to students and helped in their project works",
-				"Graded multiple assignments, quizzes, ER Diagrams and etc",
-				"Helping Students in Practical Assessments in Database Module",
+				"Explain database concepts to students and helped in their project works.",
+				"Graded multiple assignments, quizzes, ER Diagrams and etc.",
+				"Helping Students in Practical Assessments in Database Module.",
 			],
 			tags: ["Database", "SQL", "NOSQL", "Python", "SQL Server"],
 			icon: "qrcode",
@@ -214,7 +217,7 @@ export default {
 				"Implemented WSO2 IS Session Data Store in Redis.",
 				"Improved the design of WSO2 IS Session Data Store.",
 				"Performance Testing on Session Data Store Implementations.",
-				"Performing User Testing in Asgardeo use cases",
+				"Performing User Testing in Asgardeo use cases.",
 			],
 			tags: [
 				"Java",
