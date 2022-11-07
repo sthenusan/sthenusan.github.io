@@ -179,7 +179,7 @@ export default {
 	experience: [
 		{
 			title: "WSO2 LLC",
-			duration: "April 2022 - Present",
+			duration: "May 2022 - Present",
 			subtitle: "Software Engineer",
 			details: [
 				"Working as Software Engineer in Open Healthcare Team, Research and Development",
@@ -196,12 +196,12 @@ export default {
 		
 		{
 			title: "CSE, University of Moratuwa",
-			duration: "February 2022 - May 2022",
+			duration: "February 2022 - April 2022",
 			subtitle: "Visiting Instructor",
 			details: [
 				"Explain database concepts to students and helped in their project works",
 				"Graded multiple assignments, quizzes, ER Diagrams and etc",
-				"Helping Students in Practical Assessments in Databases",
+				"Helping Students in Practical Assessments in Database Module",
 			],
 			tags: ["Database", "SQL", "NOSQL", "Python", "SQL Server"],
 			icon: "qrcode",
@@ -232,27 +232,30 @@ export default {
 			duration: "Four Years",
 			subtitle: "University of Moratuwa, Sri Lanka",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"First Class Honours.",
+				"CGPA 3.7449/4.2.",
+				"Dean List awards in Semester 7 & 8.",
 			],
 			tags: [
 				"Data Structures & Algorithms",
 				"Operating Systems",
 				"Database Management System",
-				"Computer Networks",
+				"Object Oriented Programming",
 				"Data Science",
 				"Cloud Computing",
+				"Machine Learning",
+				"BioInformatics",
 			],
 			icon: "graduation-cap",
 		},
 		{
 			title: "Physical Science in GCE Advanced Level",
-			duration: "",
+			duration: "Two Years",
 			subtitle: "Board of Secondary Education, Rajasthan",
 			details: [
+				"Best Physical Science Student Awards in 2015 & 2016.",
 				"Got all High Distinction Level Passes.",
-				"District Rank: 3, Island Rank: 327.",
+				"District Rank: 3, Island Rank: 327, Z-Score: 2.1485.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
