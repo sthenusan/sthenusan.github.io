@@ -251,7 +251,7 @@ export default {
 		{
 			title: "Physical Science in GCE Advanced Level",
 			duration: "Two Years",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			subtitle: "Vavuniya Tamil Madya Maha Vidyalayam",
 			details: [
 				"Best Physical Science Student Awards in 2015 & 2016.",
 				"Got all High Distinction Level Passes.",
