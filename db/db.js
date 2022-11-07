@@ -296,15 +296,11 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
+					link: "https://www.linkedin.com/in/sthenusan/",
 				},
 				{
 					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
-				},
-				{
-					text: "Buy me a coffee",
-					link: "https://www.buymeacoffee.com/r194dME8y",
+					link: "https://twitter.com/thenusan97",
 				},
 			],
 		},
