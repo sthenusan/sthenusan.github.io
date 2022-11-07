@@ -3,14 +3,14 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
-				"I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
-				"I love to read, listen to music, and travel.",
+				"I'm Thenusan Santhirakumar. I’m currently working as a Software Engineer at WSO2 LLC Sri Lanka working in Open Healthcare Team's Research & DEvelopment activities. I did my undergrad in CSE from UOM Sri Lanka.",
+				"I'm a Software Developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems to industry space.",
+				"I love to Play Cricket and listen to music.",
 			],
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: vinaysomawat40@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: thenusan1997@gmail.com",
 			],
 		},
 	},
@@ -261,7 +261,7 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Physical Science in GCE Advanced Level",
+			title: "Physical Science Stream in GCE Advanced Level",
 			duration: "Two Years",
 			subtitle: "Vavuniya Tamil Madya Maha Vidyalayam, Vavuniya",
 			details: [
@@ -278,7 +278,7 @@ export default {
 			subtitle: "Nelukkulam Kalaimahal Maha Vidyalayam, Vavuniya",
 			details: [
 				"Got all High Distinction Level Passes in GCE Ordinary Level Examination.",
-				"Best Physical Science Student Awards multiple times.",
+				"Best Student Awards multiple times in Secondary Education.",
 				"Got Pass marks of 168 out of 200 in Grade Five Schoolarship Examination.",
 			],
 			tags: ["Physics", "Chemistry", "Combined Mathematics"],
