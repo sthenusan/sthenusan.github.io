@@ -262,15 +262,15 @@ export default {
 			data: [
 				{
 					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+					link: "https://stackoverflow.com/users/11291692/thenusan-santhirakumar",
 				},
 				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
+					link: "https://github.com/sthenusan",
 				},
 				{
 					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://leetcode.com/thenusan97/",
 				},
 			],
 		},
@@ -287,7 +287,7 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+					link: "https://github.com/sthenusan/sthenusan.github.io",
 				},
 			],
 		},
@@ -307,7 +307,6 @@ export default {
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Vinay Somawat.",
 				"&copy; No Copyrights. Feel free to use this template."
 			],
 		},
