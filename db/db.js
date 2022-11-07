@@ -269,7 +269,7 @@ export default {
 				"Got all High Distinction Level Passes with General Knowledge 78 out of 100.",
 				"District Rank: 3, Island Rank: 327, Z-Score: 2.1485.",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Physics", "Chemistry", "Combined Mathematics"],
 			icon: "book",
 		},
 		{
@@ -281,7 +281,7 @@ export default {
 				"Best Student Awards multiple times in Secondary Education.",
 				"Got Pass marks of 168 out of 200 in Grade Five Schoolarship Examination.",
 			],
-			tags: ["Physics", "Chemistry", "Combined Mathematics"],
+			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information Technology","Music","Commerce"],
 			icon: "book",
 		},
 	],
