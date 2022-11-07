@@ -178,57 +178,59 @@ export default {
 	},
 	experience: [
 		{
-			title: "Biofourmis India Pvt. Ltd.",
+			title: "WSO2 LLC",
 			duration: "April 2022 - Present",
 			subtitle: "Software Engineer",
 			details: [
-				"Working on the products in the healthcare/digital therapeutics domain."
+				"Working as Software Engineer in Open Healthcare Team, Research and Development"
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"Java",
+				"Dicom",
+				"Asgardeo",
+				"Choreo",
+				"Ballerina"
 			],
 			icon: "heartbeat",
 		},
+		
 		{
-			title: "Novopay Solutions Pvt. Ltd.",
-			duration: "June 2020 - April 2022",
-			subtitle: "Software Engineer",
+			title: "CSE, University of Moratuwa",
+			duration: "February 2022 - May 2022",
+			subtitle: "Visiting Instructor",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"Explain database concepts to students and helped in their project works",
+				"Graded multiple assignments, quizzes, ER Diagrams and etc",
+				"Helping Students in Practical Assessments in Databases"
 			],
-			tags: [
-				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
-			],
+			tags: ["Database", "SQL", "NOSQL", "Python", "SQL Server"],
 			icon: "qrcode",
 		},
 		{
-			title: "ThinkPedia LLP",
-			duration: "May 2019 - June 2019",
-			subtitle: "SDE Intern",
+			title: "WSO2 LLC",
+			duration: "October 2020 - April 2021",
+			subtitle: "Software Engineering Intern",
 			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
+				"Implemented WSO2 IS Session Data Store in Redis.",
+				"Improved the design of WSO2 IS Session Data Store.",
+				"Performance Testing on Session Data Store Implementations.",
+				"Performing User Testing in Asgardeo use cases"
 			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+			tags: [
+				"Java",
+				"Redis",
+				"WSO2 Identity Server",
+				"Github",
+				"Jmeter"
+			],
 			icon: "group",
 		},
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			title: "Bachelors of Science in Engineering in Computer Science and Engineering",
+			duration: "Four Years",
+			subtitle: "University of Moratuwa, Sri Lanka",
 			details: [
 				"Qualified GATE-2020.",
 				"Active Competitive Programmer with CodeChef Rating 1841*.",
@@ -239,18 +241,18 @@ export default {
 				"Operating Systems",
 				"Database Management System",
 				"Computer Networks",
-				"Compiler Designing",
+				"Data Science",
 				"Cloud Computing",
 			],
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "Physical Science in GCE Advanced Level",
 			duration: "",
 			subtitle: "Board of Secondary Education, Rajasthan",
 			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
+				"Got all High Distinction Level Passes",
+				"District Rank: 3, Island Rank: 327",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
