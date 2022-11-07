@@ -182,14 +182,14 @@ export default {
 			duration: "April 2022 - Present",
 			subtitle: "Software Engineer",
 			details: [
-				"Working as Software Engineer in Open Healthcare Team, Research and Development"
+				"Working as Software Engineer in Open Healthcare Team, Research and Development",
 			],
 			tags: [
 				"Java",
 				"Dicom",
 				"Asgardeo",
 				"Choreo",
-				"Ballerina"
+				"Ballerina",
 			],
 			icon: "heartbeat",
 		},
@@ -201,7 +201,7 @@ export default {
 			details: [
 				"Explain database concepts to students and helped in their project works",
 				"Graded multiple assignments, quizzes, ER Diagrams and etc",
-				"Helping Students in Practical Assessments in Databases"
+				"Helping Students in Practical Assessments in Databases",
 			],
 			tags: ["Database", "SQL", "NOSQL", "Python", "SQL Server"],
 			icon: "qrcode",
@@ -214,14 +214,14 @@ export default {
 				"Implemented WSO2 IS Session Data Store in Redis.",
 				"Improved the design of WSO2 IS Session Data Store.",
 				"Performance Testing on Session Data Store Implementations.",
-				"Performing User Testing in Asgardeo use cases"
+				"Performing User Testing in Asgardeo use cases",
 			],
 			tags: [
 				"Java",
 				"Redis",
 				"WSO2 Identity Server",
 				"Github",
-				"Jmeter"
+				"Jmeter",
 			],
 			icon: "group",
 		},
@@ -251,8 +251,8 @@ export default {
 			duration: "",
 			subtitle: "Board of Secondary Education, Rajasthan",
 			details: [
-				"Got all High Distinction Level Passes",
-				"District Rank: 3, Island Rank: 327",
+				"Got all High Distinction Level Passes.",
+				"District Rank: 3, Island Rank: 327.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
