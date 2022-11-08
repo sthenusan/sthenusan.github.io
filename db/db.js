@@ -234,7 +234,7 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors of Science in Engineering in Computer Science and Engineering",
+			title: "B.S.c in Engineering in Computer Science and Engineering",
 			duration: "January 2018 - June 2022",
 			subtitle: "University of Moratuwa, Sri Lanka",
 			details: [
@@ -261,7 +261,7 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Physical Science Stream in GCE Advanced Level",
+			title: "GCE Advanced Level",
 			duration: "August 2014 - August 2016",
 			subtitle: "Vavuniya Tamil Madya Maha Vidyalayam, Vavuniya",
 			details: [
