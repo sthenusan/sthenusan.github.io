@@ -329,11 +329,5 @@ export default {
 				},
 			],
 		},
-		{
-			label: "copyright-text",
-			data: [
-				"&copy; No Copyrights. Feel free to use this template."
-			],
-		},
 	],
 };
