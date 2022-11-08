@@ -235,7 +235,7 @@ export default {
 	education: [
 		{
 			title: "Bachelors of Science in Engineering in Computer Science and Engineering",
-			duration: "Four Years",
+			duration: "January 2018 - June 2022",
 			subtitle: "University of Moratuwa, Sri Lanka",
 			details: [
 				"First Class Honours.",
@@ -262,7 +262,7 @@ export default {
 		},
 		{
 			title: "Physical Science Stream in GCE Advanced Level",
-			duration: "Two Years",
+			duration: "August 2014 - August 2016",
 			subtitle: "Vavuniya Tamil Madya Maha Vidyalayam, Vavuniya",
 			details: [
 				"Got all high distinction level passes with general knowledge 78 out of 100.",
@@ -274,7 +274,7 @@ export default {
 		},
 		{
 			title: "GCE Ordinary Level",
-			duration: "Two Years",
+			duration: "January 2012 - December 2013",
 			subtitle: "Nelukkulam Kalaimahal Maha Vidyalayam, Vavuniya",
 			details: [
 				"Got all high distinction level passes in GCE ordinary level examination.",
