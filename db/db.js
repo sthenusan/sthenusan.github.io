@@ -314,10 +314,6 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/sthenusan/sthenusan.github.io",
-				},
 			],
 		},
 		{
