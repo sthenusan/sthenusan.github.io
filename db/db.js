@@ -17,7 +17,7 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "Java, Python",
 			color: "1",
 			percentage: "70",
 		},
@@ -41,13 +41,13 @@ export default {
 		},
 		{
 			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
+			skillName: "HTML, Bootstrap, CSS",
 			color: "4",
-			percentage: "70",
+			percentage: "40",
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, JIRA, Trello",
+			skillName: "GitHub",
 			color: "7",
 			percentage: "70",
 		},
