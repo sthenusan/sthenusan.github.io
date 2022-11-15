@@ -17,27 +17,27 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Java, Python",
+			skillName: "Java",
 			color: "1",
 			percentage: "70",
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
+			skillName: "Python",
 			color: "6",
-			percentage: "50",
+			percentage: "60",
 		},
 		{
 			title: "Backend",
-			skillName: "Nodejs, MongoDB",
+			skillName: "PHP",
 			color: "2",
 			percentage: "40",
 		},
 		{
 			title: "Clouds",
-			skillName: "AWS(EC2, S3), Heroku, Netlify",
+			skillName: "WSO2 APIM, IS, MI",
 			color: "3",
-			percentage: "30",
+			percentage: "40",
 		},
 		{
 			title: "Design",
@@ -53,13 +53,13 @@ export default {
 		},
 		{
 			title: "Tools",
-			skillName: "Postman, Chrome DevTools",
+			skillName: "Relational Databases",
 			color: "3",
-			percentage: "80",
+			percentage: "70",
 		},
 		{
 			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
+			skillName: "NoSQL, Redis",
 			color: "5",
 			percentage: "50",
 		},
