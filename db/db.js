@@ -69,6 +69,12 @@ export default {
 			color: "6",
 			percentage: "70",
 		},
+		{
+			title: "Editor",
+			skillName: "Ballerina",
+			color: "4",
+			percentage: "30",
+		},
 	],
 	projects: {
 		web: [
