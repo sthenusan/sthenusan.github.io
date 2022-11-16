@@ -285,7 +285,7 @@ export default {
 			details: [
 				"Got all high distinction level passes in GCE ordinary level examination.",
 				"Best student awards multiple times in secondary education.",
-				"Got pass marks of 168 out of 200 in grade five schoolarship examination.",
+				"Got pass marks of 168 out of 200 in grade five examination and got the Merit Scholarship.",
 			],
 			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information and Communication Technology","Music","Commerce"],
 			icon: "book",
