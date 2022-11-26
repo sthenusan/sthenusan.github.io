@@ -80,10 +80,10 @@ export default {
 		web: [
 			{
 				projectName: "Insta Movies",
-				//image: "images/programmingdiaries.png",
+				image: "images/findyourbank.png",
 				summary:
-					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility.",
-				//preview: "https://programmingdiaries.herokuapp.com/",
+					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility, As a part of Semester three OOSD Project, Group Project",
+				preview: "https://github.com/sthenusan/InstaMovies",
 				techStack: [
 					"PHP",
 					"MySQL",
@@ -94,19 +94,19 @@ export default {
 				],
 			},
 			{
-				projectName: "Find Your Bank",
+				projectName: "HR Manangement Solution",
 				image: "images/findyourbank.png",
 				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+					"Human Resource Manangement Application, As a part of Semester four Database Project, Group Project",
+				preview: "https://github.com/sthenusan/HR-management",
+				techStack: ["PHP", "JavaScript", "HTML", "CSS", "MySQL"],
 			},
 			{
 				projectName: "Web Portfolio",
 				image: "images/portfolio.png",
 				summary:
 					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				preview: "https://sthenusan.github.io/",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
@@ -120,13 +120,13 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Pizza Ordering ChatBot",
+				projectName: "WSO2 Session DataStore in Redis",
 				image: "images/pizzaorderchatbot.png",
 				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+					"WSO2 IS Session data store in REDIS in Memory database, Internship Project",
 				preview:
 					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
+				techStack: ["Java", "Redis","Jmeter", "WSO2 IS", "Relational Databases" ],
 			},
 			{
 				projectName: "WhatsApp-Bot",
@@ -147,12 +147,12 @@ export default {
 		],
 		android: [
 			{
-				projectName: "NITW-CSE",
+				projectName: "Alarmme",
 				image: "images/nitwcse.jpg",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
+					"Location based Alarm Application. As a part of Semester four Software Engineering Project, Group Project",
 				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
+				techStack: ["Fluter", "MySQL", "Google Map API"],
 			},
 			{
 				projectName: "CareerHigh-App",
