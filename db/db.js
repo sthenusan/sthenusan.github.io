@@ -79,17 +79,18 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Programming Diaries",
-				image: "images/programmingdiaries.png",
+				projectName: "Insta Movies",
+				//image: "images/programmingdiaries.png",
 				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility.",
+				//preview: "https://programmingdiaries.herokuapp.com/",
 				techStack: [
-					"Django",
-					"SQLite",
+					"PHP",
+					"MySQL",
 					"Bootstrap",
 					"JavaScript",
-					"Heroku",
+					"HTML",
+					"CSS"
 				],
 			},
 			{
