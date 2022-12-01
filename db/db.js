@@ -117,62 +117,29 @@ export default {
 				summary:
 					"WSO2 IS Session data store in REDIS in Memory database, Internship Project",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+					"https://github.com/sthenusan/identity-session-data-store-redis",
 				techStack: ["Java", "Redis","Jmeter", "WSO2 IS", "Relational Databases" ],
-			},
-			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
-				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
 		],
 		android: [
 			{
-				projectName: "Alarmme",
-				image: "images/snylloair.png",
+				projectName: "Alarm Me",
+				image: "images/findyourbank.png",
 				summary:
 					"Location based Alarm Application. As a part of Semester four Software Engineering Project, Group Project",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
+				preview: "https://github.com/sthenusan/AlarmMe",
 				techStack: ["Fluter", "MySQL", "Google Map API"],
 			},
 			{
 				projectName: "Sieve Mobile Application",
-				image: "images/snylloair.png",
+				image: "images/pizzaorderchatbot.png",
 				summary:
-					"The Application to display privacy policies of different applications in the market.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+					"A Application to display privacy policies of different applications in the market.",
+				preview: "https://github.com/sthenusan/Sieve_Backend",
 				techStack: ["Flutter", "MySQL", "Adope XD", ""],
 			},
 		],
 		freelance: [
-			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
-				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			},
-			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
-				summary:
-					"Android Application to display website in android devices.",
-				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
-			},
 		],
 		
 	},
