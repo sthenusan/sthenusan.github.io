@@ -80,7 +80,7 @@ export default {
 		web: [
 			{
 				projectName: "InstaMovies",
-				image: "images/findyourbank.png",
+				image: "images/Insta.jpg",
 				summary:
 					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility, As a part of Semester three OOSD Project, Group Project",
 				preview: "https://github.com/sthenusan/InstaMovies",
@@ -140,7 +140,7 @@ export default {
 		android: [
 			{
 				projectName: "Alarmme",
-				image: "images/nitwcse.jpg",
+				image: "images/alrame.png",
 				summary:
 					"Location based Alarm Application. As a part of Semester four Software Engineering Project, Group Project",
 				preview: "https://github.com/vinaysomawat/NITW-CSE",
@@ -148,11 +148,30 @@ export default {
 			},
 			{
 				projectName: "Sieve Mobile Application",
-				image: "images/carrerhigh.png",
+				image: "images/sieve.jpg",
 				summary:
 					"The Application to display privacy policies of different applications in the market.",
 				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
 				techStack: ["Flutter", "MySQL", "Adope XD", ""],
+			},
+		],
+		freelance: [
+			{
+				projectName: "SnylloAir.com",
+				image: "images/snylloair.png",
+				summary:
+					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+				preview: "https://www.snylloair.com/",
+				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+			},
+			{
+				projectName: "Delivery+",
+				image: "images/AM-Logo-.png",
+				summary:
+					"Android Application to display website in android devices.",
+				preview:
+					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
 		
