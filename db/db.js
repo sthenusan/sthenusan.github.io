@@ -101,14 +101,6 @@ export default {
 				preview: "https://github.com/sthenusan/HR-management",
 				techStack: ["PHP", "JavaScript", "HTML", "CSS", "MySQL"],
 			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://sthenusan.github.io/",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
 		],
 		software: [
 			{
@@ -118,15 +110,15 @@ export default {
 					"WSO2 IS Session data store in REDIS in Memory database, Internship Project",
 				preview:
 					"https://github.com/sthenusan/identity-session-data-store-redis",
-				techStack: ["Java", "Redis","Jmeter", "WSO2 IS", "Relational Databases" ],
-			},			{
+				techStack: ["Java", "Redis", "Jmeter", "WSO2 IS", "Relational Databases"],
+			}, {
 				projectName: "Process Scheduling Algorithm - Simulation",
 				image: "images/pizzaorderchatbot.png",
 				summary:
 					"SRTF process scheduling algorithm simulation for the Operating Systems module.",
 				preview:
 					"https://github.com/sthenusan/identity-session-data-store-redis",
-				techStack: ["Java", "SRTF Algorithm" ],
+				techStack: ["Java", "SRTF Algorithm"],
 			},
 		],
 		android: [
@@ -149,7 +141,6 @@ export default {
 		],
 		freelance: [
 		],
-		
 	},
 	experience: [
 		{
@@ -256,7 +247,7 @@ export default {
 				"Best student awards multiple times in secondary education.",
 				"Got pass marks of 168 out of 200 in grade five examination and got the Merit Scholarship.",
 			],
-			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information and Communication Technology","Music","Commerce"],
+			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information and Communication Technology", "Music", "Commerce"],
 			icon: "book",
 		},
 	],
