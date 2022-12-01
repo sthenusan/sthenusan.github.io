@@ -119,6 +119,14 @@ export default {
 				preview:
 					"https://github.com/sthenusan/identity-session-data-store-redis",
 				techStack: ["Java", "Redis","Jmeter", "WSO2 IS", "Relational Databases" ],
+			},			{
+				projectName: "Process Scheduling Algorithm - Simulation",
+				image: "images/pizzaorderchatbot.png",
+				summary:
+					"SRTF process scheduling algorithm simulation for the Operating Systems module.",
+				preview:
+					"https://github.com/sthenusan/identity-session-data-store-redis",
+				techStack: ["Java", "SRTF Algorithm" ],
 			},
 		],
 		android: [
