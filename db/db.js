@@ -79,7 +79,7 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Insta Movies",
+				projectName: "InstaMovies",
 				image: "images/findyourbank.png",
 				summary:
 					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility, As a part of Semester three OOSD Project, Group Project",
@@ -107,14 +107,6 @@ export default {
 				summary:
 					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
 				preview: "https://sthenusan.github.io/",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 		],
@@ -155,12 +147,12 @@ export default {
 				techStack: ["Fluter", "MySQL", "Google Map API"],
 			},
 			{
-				projectName: "CareerHigh-App",
+				projectName: "Sieve Mobile Application",
 				image: "images/carrerhigh.png",
 				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
+					"The Application to display privacy policies of different applications in the market.",
 				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
+				techStack: ["Flutter", "MySQL", "Adope XD", ""],
 			},
 		],
 		
