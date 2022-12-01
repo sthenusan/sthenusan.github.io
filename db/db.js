@@ -80,7 +80,7 @@ export default {
 		web: [
 			{
 				projectName: "InstaMovies",
-				image: "images/Insta.jpg",
+				image: "images/snylloair.png",
 				summary:
 					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility, As a part of Semester three OOSD Project, Group Project",
 				preview: "https://github.com/sthenusan/InstaMovies",
@@ -140,7 +140,7 @@ export default {
 		android: [
 			{
 				projectName: "Alarmme",
-				image: "images/alrame.png",
+				image: "images/snylloair.png",
 				summary:
 					"Location based Alarm Application. As a part of Semester four Software Engineering Project, Group Project",
 				preview: "https://github.com/vinaysomawat/NITW-CSE",
@@ -148,7 +148,7 @@ export default {
 			},
 			{
 				projectName: "Sieve Mobile Application",
-				image: "images/sieve.jpg",
+				image: "images/snylloair.png",
 				summary:
 					"The Application to display privacy policies of different applications in the market.",
 				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
