@@ -80,7 +80,7 @@ export default {
 		web: [
 			{
 				projectName: "InstaMovies",
-				image: "images/snylloair.png",
+				image: "images/findyourbank.png",
 				summary:
 					"Developed a full stack web application to provide movie ticket booking related services with ticket exchange facility, As a part of Semester three OOSD Project, Group Project",
 				preview: "https://github.com/sthenusan/InstaMovies",
