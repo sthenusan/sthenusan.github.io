@@ -326,3 +326,51 @@ function enableDarkMode() {
 	var element = document.body;
 	element.classList.toggle("dark-mode");
 }
+
+// Contact Form Modal
+const modal = document.getElementById("contact-modal");
+const contactLink = document.getElementById("contact-link");
+const closeBtn = document.getElementsByClassName("close")[0];
+const contactForm = document.getElementById("contact-form");
+
+// Open modal when clicking the contact link
+contactLink.onclick = function(e) {
+	e.preventDefault();
+	modal.style.display = "block";
+}
+
+// Close modal when clicking the X
+closeBtn.onclick = function() {
+	modal.style.display = "none";
+}
+
+// Close modal when clicking outside
+window.onclick = function(event) {
+	if (event.target == modal) {
+		modal.style.display = "none";
+	}
+}
+
+// Handle form submission
+contactForm.onsubmit = function(e) {
+	e.preventDefault();
+	
+	// Get form data
+	const formData = {
+		name: document.getElementById("name").value,
+		email: document.getElementById("email").value,
+		subject: document.getElementById("subject").value,
+		message: document.getElementById("message").value
+	};
+
+	// Here you would typically send the form data to your backend
+	// For now, we'll just log it and show a success message
+	console.log("Form submitted:", formData);
+	
+	// Show success message
+	alert("Thank you for your message! I'll get back to you soon.");
+	
+	// Clear form and close modal
+	contactForm.reset();
+	modal.style.display = "none";
+}

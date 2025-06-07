@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Thenusan Santhirakumar. I’m currently working as a Software Engineer at WSO2 LLC Sri Lanka working in Open Healthcare Team's Research & DEvelopment activities. I did my undergrad in CSE from UOM Sri Lanka.",
+				"I'm Thenusan Santhirakumar. I'm currently working as a Software Engineer at WSO2 LLC Sri Lanka working in Open Healthcare Team's Research & DEvelopment activities. I did my undergrad in CSE from UOM Sri Lanka.",
 				"I'm a Software Developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems to industry space.",
 				"I love to Play Cricket and listen to music.",
 			],
@@ -25,6 +25,12 @@ export default {
 			title: "Frameworks/Libraries",
 			skillName: "Python",
 			color: "6",
+			percentage: "60",
+		},
+		{
+			title: "Languages",
+			skillName: "Java Script",
+			color: "5",
 			percentage: "60",
 		},
 		{
@@ -78,6 +84,35 @@ export default {
 	],
 	projects: {
 		web: [
+			{
+				projectName: "Barter System",
+				image: "images/baterSystem.png",
+				summary:
+					"Developed a barter trading system that enables users to exchange items and services. Implemented features include user authentication, item listing, search functionality, and real-time messaging between users. Built as part of my Master's degree project at Deakin University.",
+				preview: "https://github.com/sthenusan/TradeSystem",
+				techStack: [
+					"Node JS",
+					"EJS",
+					"Mongo DB",
+					"JavaScript",
+					"HTML",
+					"CSS"
+				],
+			},
+			{
+				projectName: "Healthcare Appointment Booking System",
+				image: "images/healthcare.png",
+				summary:
+					"Built a comprehensive healthcare appointment management system that allows patients to book, reschedule, and manage their medical appointments. Features include doctor availability management, appointment scheduling, and automated notifications. Developed as part of my Master's degree project at Deakin University.",
+				preview: "https://github.com/sthenusan/sit-727-hd",
+				techStack: [
+					"Spring Boot",
+					"Thymeleaf",
+					"Mongo DB",
+					"Docker",
+					"Kubernetes"
+				],
+			},
 			{
 				projectName: "InstaMovies",
 				image: "images/findyourbank.png",
@@ -145,7 +180,7 @@ export default {
 	experience: [
 		{
 			title: "WSO2 LLC",
-			duration: "May 2022 - Present",
+			duration: "May 2022 - October 2023",
 			subtitle: "Software Engineer",
 			details: [
 				"Implemented Healthcare Ballerina Packages.",
@@ -200,6 +235,29 @@ export default {
 	],
 	education: [
 		{
+			title: "Master of Information Technology",
+			duration: "October 2023 - June 2025",
+			subtitle: "Deakin University, Australia",
+			details: [
+				"Specializing in Cloud Computing and Software Development",
+				"Relevant Coursework: Cloud Architecture, Advanced Software Engineering, Data Analytics",
+				"Project: Developed a barter trading system using EJS, Node JS, and MongoDB",
+				"Project: Built a healthcare appointment booking system using Spring Boot and MongoDB"
+			],
+			tags: [
+				"Cloud Computing",
+				"Software Development",
+				"Data Analytics",
+				"Node.js",
+				"MongoDB",
+				"Spring Boot",
+				"DevOps",
+				"Microservices",
+				"API Development"
+			],
+			icon: "graduation-cap"
+		},
+		{
 			title: "B.S.c in Engineering in Computer Science and Engineering",
 			duration: "January 2018 - June 2022",
 			subtitle: "University of Moratuwa, Sri Lanka",
@@ -238,18 +296,7 @@ export default {
 			tags: ["Physics", "Chemistry", "Combined Mathematics"],
 			icon: "book",
 		},
-		{
-			title: "GCE Ordinary Level",
-			duration: "January 2012 - December 2013",
-			subtitle: "Nelukkulam Kalaimahal Maha Vidyalayam, Vavuniya",
-			details: [
-				"Got all high distinction level passes in GCE ordinary level examination.",
-				"Best student awards multiple times in secondary education.",
-				"Got pass marks of 168 out of 200 in grade five examination and got the Merit Scholarship.",
-			],
-			tags: ["Mathematics", "Science", "English", "History", "Tamil", "Religion", "Information and Communication Technology", "Music", "Commerce"],
-			icon: "book",
-		},
+
 	],
 	footer: [
 		{
@@ -257,7 +304,7 @@ export default {
 			data: [
 				{
 					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/11291692/thenusan-santhirakumar",
+					link: "https://stackoverflow.com/users/9118100/thenusan-santhirakumar",
 				},
 				{
 					text: "GitHub",
