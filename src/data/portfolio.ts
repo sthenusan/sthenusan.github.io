@@ -292,6 +292,47 @@ export const portfolioData: PortfolioData = {
     },
     experience: [
         {
+            title: "Hardhat Enterprises",
+            duration: "March 2025 - August 2025",
+            subtitle: "Software Engineer (Part-time) — Melbourne, Victoria, Australia (On-site)",
+            details: [
+                "Designed and implemented 10+ Open Policy Agent (OPA) policies for Google Cloud Deploy and Google Cloud Security Command Center using Rego and Terraform.",
+                "Leveraged Git for version control and cross-team collaboration across modular policy repositories.",
+                "Authored comprehensive documentation outlining policy structure, logic, and enforcement workflows to support team onboarding and future enhancements.",
+                "Enhanced expertise in Infrastructure as Code (IaC), Policy as Code (PaC), and secure cloud configuration best practices."
+            ],
+            tags: [
+                "OPA",
+                "Rego",
+                "Terraform",
+                "Google Cloud",
+                "IaC",
+                "PaC",
+                "Git"
+            ],
+            icon: "group",
+        },
+        {
+            title: "Chameleon - Smarter World",
+            duration: "June 2024 - November 2024",
+            subtitle: "Software Engineer (Part-time) — Melbourne, Victoria, Australia (On-site)",
+            details: [
+                "Developed user authentication features in React Native, including email, Google, and Apple sign-in.",
+                "Integrated frontend authentication with backend services, ensuring secure and consistent sign-in and sign-up workflows.",
+                "Set up the development environment, configured authentication flows, and maintained high code quality through structured pull requests and Git version control.",
+                "Served as a junior technical lead, engaging in project meetings to shape technical direction and team coordination.",
+                "Supported team members by sharing best practices in version control, development workflows, and effective project collaboration."
+            ],
+            tags: [
+                "React Native",
+                "Authentication",
+                "Google Sign-In",
+                "Apple Sign-In",
+                "Git"
+            ],
+            icon: "group",
+        },
+        {
             title: "WSO2 LLC",
             duration: "May 2022 - October 2023",
             subtitle: "Software Engineer",
